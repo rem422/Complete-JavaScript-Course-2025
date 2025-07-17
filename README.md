@@ -1,7 +1,7 @@
 # 📘 The Complete JavaScript Course 2024 – Jonas Schmedtmann
 
 This repository contains my code, challenges, and projects from the Udemy course:  
-**"The Complete JavaScript Course 2024: From Zero to Expert!"** by [Jonas Schmedtmann](https://codingheroes.io/).  
+**"The Complete JavaScript Course 2025: From Zero to Expert!"** by [Jonas Schmedtmann](https://codingheroes.io/).  
 A comprehensive journey from beginner to advanced JavaScript development with real-world projects.
 
 ---
@@ -61,15 +61,15 @@ complete-javascript-course/
 
 ## 📈 Progress Tracker
 
-- [x] Section 1: Welcome
-- [x] Section 2: JavaScript Fundamentals 1
-- [x] Section 3: Developer Skills & Editor Setup
-- [x] Section 4: JavaScript Fundamentals 2
-- [x] Section 5: Guess My Number
-- [x] Section 6: JavaScript Behind the Scenes
-- [x] Section 7: DOM Projects (Modal, Tabs, etc.)
-- [x] Section 8: Arrays & Bankist App
-- [x] Section 9: Mapty with OOP & Leaflet
+- [ ] Section 1: Welcome
+- [ ] Section 2: JavaScript Fundamentals 1
+- [ ] Section 3: Developer Skills & Editor Setup
+- [ ] Section 4: JavaScript Fundamentals 2
+- [ ] Section 5: Guess My Number
+- [ ] Section 6: JavaScript Behind the Scenes
+- [ ] Section 7: DOM Projects (Modal, Tabs, etc.)
+- [ ] Section 8: Arrays & Bankist App
+- [ ] Section 9: Mapty with OOP & Leaflet
 - [ ] Section 10: Asynchronous JavaScript
 - [ ] Section 11: Final Challenges and Wrap-Up
 
