@@ -78,7 +78,7 @@ complete-javascript-course/
 ## 🧑‍💻 Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@rem422](https://github.com/rem422)
 
 ---
 
