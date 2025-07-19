@@ -15,6 +15,9 @@ console.log(2.2 + 2.2);
 console.log( 10.90 * 2 + 20.95);
 console.log( 10.90 * 2 + 20.95 + 4.99);
 
+//2,3,4 = integers
+//2.2, 2.5, 3.4 = floating point numbers(floats)
+
 // Operation Precedence
 // * / are done first.
 // + - are done after.
